@@ -1,0 +1,38 @@
+
+.App{
+  padding: 20px;
+  text-align: center;
+}
+.cards{
+  border:2px solid red;
+  padding:20px;
+  width:50%;
+}
+
+ul{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: space-between;
+}
+/* li:hover{
+  color: rgb(203, 118, 218);
+} */
+li{
+  list-style: none;
+}
+
+li a{
+  text-decoration: none;
+  background-color: rgb(191, 131, 173);
+  padding: 10px;
+  color:rgb(15, 14, 14);
+  border-radius: 10px;
+  color:white;
+}
+
+.navContainer{
+  background-color: rgb(43, 243, 149);
+  padding: 20px;
+  border-radius: 5px;
+
+}
