@@ -25,7 +25,7 @@ import { Input} from 'antd';
 
     return (
         <div>
-        <h1>Product World</h1>
+        <h1>pproduct World</h1>
         {/* <input type ='Text' onChange={(e) =>setSearch(e.target.value)}placeholder='search here.....'/> */}
         <Search placeholder="input search text" onChange={(e) =>setSearch(e.target.value)} style={{ width: 250 }} />
         <div className='d-flex flex-wrap justify-content-center'>
